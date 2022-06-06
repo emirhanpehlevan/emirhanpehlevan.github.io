@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Non-Linear Data Structure Types
-date: 2022-6-06 10:20:00
+date: 2022-6-04 10:20:00
 categories: [Tree, Tries, Hash, Graph]
 ---
 
