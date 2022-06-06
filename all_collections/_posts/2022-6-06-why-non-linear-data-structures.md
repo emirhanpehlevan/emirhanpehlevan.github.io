@@ -2,7 +2,7 @@
 layout: post
 title: Why Non-Linear Data Structures
 date: 2022-6-06 10:20:00
-categories: [Non-Linear, Data Structures, Big Data, Artificial Intelligence]
+categories: [Non-Linear Data Structures, Big Data, Artificial Intelligence]
 ---
 
 Since almost everything is data for companies or industries, naturally, this data must be stored in some way to be processed. At this stage, linear and non-linear data structures are used to store the data. In today's world, all companies are slowly moving to non-linear data structures. We can explain the reasons for choosing non-linear under 3 substances. These are the demands of today's technology, speed and running costs.
