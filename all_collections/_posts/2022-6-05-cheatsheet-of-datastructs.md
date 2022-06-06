@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CheatSheet of Structures
-date: 2022-6-06 10:38:00
+date: 2022-6-05 10:00:00
 categories: [CheatSheet, Data Structures, Analytics]
 ---
 
@@ -9,4 +9,4 @@ Here, you can access the analysis data you want to reach with data structures in
 
 ![alt](https://raw.githubusercontent.com/emirhanpehlevan/emirhanpehlevan.github.io/main/assets/cheatsheet.jpg)
 
-[Full Size](https://raw.githubusercontent.com/emirhanpehlevan/emirhanpehlevan.github.io/main/assets/cheatsheet.jpg).
+[Full Size](https://raw.githubusercontent.com/emirhanpehlevan/emirhanpehlevan.github.io/main/assets/cheatsheet.jpg)
