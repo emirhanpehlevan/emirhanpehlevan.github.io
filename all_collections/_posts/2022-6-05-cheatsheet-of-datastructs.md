@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CheatSheet of Structures
+title: CheatSheet of Data Structures
 date: 2022-6-05 10:00:00
 categories: [CheatSheet, Data Structures, Analytics]
 ---
