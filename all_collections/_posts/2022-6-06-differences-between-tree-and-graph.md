@@ -17,4 +17,4 @@ For node requirement, trees must have a root node because of their structure, to
 
 As a result, graph provides a lot of flexibility and has more features compared to tree. However, since the graph data type is complex and difficult to implement, it may be more logical to use the tree data type for small structure types, but graph seems to be a good solution for large-scale data structures.
 
-Reference : [javatpoint](https://www.javatpoint.com/tree-vs-graph-data-structure)
+Reference : [javatpoint.com](https://www.javatpoint.com/tree-vs-graph-data-structure), [doeken.org](https://doeken.org/blog/tree-traversal-in-php)
